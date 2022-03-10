@@ -1,0 +1,3 @@
+export const FLICKR_START = 'FLICKR_START';
+export const FLICKR_SUCCESS = 'FLICKR_SUCCESS';
+export const FLICKR_FAIL = 'FLICKR_FAIL';
